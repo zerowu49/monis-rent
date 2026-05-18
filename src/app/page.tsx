@@ -1,6 +1,6 @@
 "use client";
-import { useEffect, useState } from "react";
-import { Product, SelectedItems } from "./types";
+import { useState } from "react";
+import { Product, SelectedItems } from "./data/types";
 import {
   getDeskOptions,
   getChairOptions,

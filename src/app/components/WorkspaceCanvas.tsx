@@ -1,5 +1,5 @@
 import React from "react";
-import { SelectedItems } from "../types";
+import { SelectedItems } from "../data/types";
 import Image from "next/image";
 
 interface WorkspaceCanvasProps {

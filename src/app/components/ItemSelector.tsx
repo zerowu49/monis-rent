@@ -1,5 +1,5 @@
 import React from "react";
-import { Product } from "../types";
+import { Product } from "../data/types";
 import Image from "next/image";
 
 interface ItemSelectorProps {
